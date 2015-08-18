@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VideoCaptureInfoGetter", "VideoCaptureInfoGetter\VideoCaptureInfoGetter.vcxproj", "{27CD6964-D53B-4C69-B035-C963F83CBA92}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VideoCaptureInfoGetterTest", "VideoCaptureInfoGetterTest\VideoCaptureInfoGetterTest.vcxproj", "{54502ED1-B40F-40D2-B9D0-8985D39A3613}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VideoCaptureInfoGetterPythonTest", "VideoCaptureInfoGetterPythonTest\VideoCaptureInfoGetterPythonTest.pyproj", "{B7BBCDD7-215A-4FF1-B0F0-F0A4E6F20FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CD6964-D53B-4C69-B035-C963F83CBA92}.Debug|x64.ActiveCfg = Debug|x64
+		{27CD6964-D53B-4C69-B035-C963F83CBA92}.Debug|x64.Build.0 = Debug|x64
+		{27CD6964-D53B-4C69-B035-C963F83CBA92}.Debug|x86.ActiveCfg = Debug|Win32
+		{27CD6964-D53B-4C69-B035-C963F83CBA92}.Debug|x86.Build.0 = Debug|Win32
+		{27CD6964-D53B-4C69-B035-C963F83CBA92}.Release|x64.ActiveCfg = Release|x64
+		{27CD6964-D53B-4C69-B035-C963F83CBA92}.Release|x64.Build.0 = Release|x64
+		{27CD6964-D53B-4C69-B035-C963F83CBA92}.Release|x86.ActiveCfg = Release|Win32
+		{27CD6964-D53B-4C69-B035-C963F83CBA92}.Release|x86.Build.0 = Release|Win32
+		{54502ED1-B40F-40D2-B9D0-8985D39A3613}.Debug|x64.ActiveCfg = Debug|x64
+		{54502ED1-B40F-40D2-B9D0-8985D39A3613}.Debug|x64.Build.0 = Debug|x64
+		{54502ED1-B40F-40D2-B9D0-8985D39A3613}.Debug|x86.ActiveCfg = Debug|Win32
+		{54502ED1-B40F-40D2-B9D0-8985D39A3613}.Debug|x86.Build.0 = Debug|Win32
+		{54502ED1-B40F-40D2-B9D0-8985D39A3613}.Release|x64.ActiveCfg = Release|x64
+		{54502ED1-B40F-40D2-B9D0-8985D39A3613}.Release|x64.Build.0 = Release|x64
+		{54502ED1-B40F-40D2-B9D0-8985D39A3613}.Release|x86.ActiveCfg = Release|Win32
+		{54502ED1-B40F-40D2-B9D0-8985D39A3613}.Release|x86.Build.0 = Release|Win32
+		{B7BBCDD7-215A-4FF1-B0F0-F0A4E6F20FD8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B7BBCDD7-215A-4FF1-B0F0-F0A4E6F20FD8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B7BBCDD7-215A-4FF1-B0F0-F0A4E6F20FD8}.Release|x64.ActiveCfg = Release|Any CPU
+		{B7BBCDD7-215A-4FF1-B0F0-F0A4E6F20FD8}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
